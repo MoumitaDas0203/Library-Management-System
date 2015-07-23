@@ -1,0 +1,41 @@
+
+
+ 
+<style>
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    color:red;
+}
+
+
+h1
+ {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-left:600px; 
+    	
+}
+.buttons { margin-left:600px;  }
+    
+.intro-header {
+    padding-top: 400px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 100px;
+    text-align: center;
+    color:  white;
+	font-weight: Bold;
+    background: url("headers.jpg") no-repeat center center ;
+	background-size:cover ;
+	}
+	
+	
+
+	
+	/*banner {
+    padding: 180px 0;
+    color: #f8f8f8;
+    background: url(headers1.jpg) no-repeat center center;
+    background-size: cover;}-->
+
+</style>
